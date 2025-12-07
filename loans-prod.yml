@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Welcome to Loan Microservice PROD APIs  - Github ----> Refresh"
+  message: "Welcome to Loan Microservice PROD APIs  - Github ---- Refresh  --- Spring Bus Single Microservice refresh all"
   contactDetails:
     name: "Abhinav Devkar"
     package: "40 LPA"
