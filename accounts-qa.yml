@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs  - Github"
+  message: "Welcome to EazyBank accounts related QA APIs  - Github Encrypt"
   contactDetails:
     name: "Morgan Stanly"
     email: "{cipher}4b53c7ef6bcfc1c25a0c02b7d7d007a8fc029cd985d3f82a483105b62bbe3cd7fda6e7aaa33709bac324b173c5b97463"
