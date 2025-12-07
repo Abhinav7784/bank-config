@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to Card Microservice DEV APIs"
+  message: "Welcome to Card Microservice DEV APIs  - Github"
   contactDetails:
     name: "Abhinav Devkar"
     package: "35 LPA"

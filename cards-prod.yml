@@ -3,7 +3,7 @@ build:
 
 
 card:
-  message: "Welcome to Card Microservice Prod"
+  message: "Welcome to Card Microservice Prod  - Github"
   contactDetails:
     name: "Abhinav Devkar"
     package: "60 LPA"

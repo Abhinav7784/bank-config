@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Welcome to Loan Microservice QA APIs"
+  message: "Welcome to Loan Microservice QA APIs  - Github"
   contactDetails:
     name: "Abhinav Devkar"
     package: "38 LPA"

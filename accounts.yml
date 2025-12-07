@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related local APIs - Github"
   contactDetails:
     name: "Abhinav Devkar"
     email: "abhinavdevkar@hotmail.com"

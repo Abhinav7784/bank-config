@@ -3,7 +3,7 @@ build:
 
 
 card:
-  message: "Welcome to Card Microservice QA"
+  message: "Welcome to Card Microservice QA  - Github"
   contactDetails:
     name: "Abhinav Devkar"
     package: "48 LPA"
