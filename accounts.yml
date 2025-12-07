@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Abhinav Devkar"
+    email: "abhinavdevkar@hotmail.com"
+  onCallSupport:
+    - 798465641190
+    - 900011000999

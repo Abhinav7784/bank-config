@@ -1,0 +1,16 @@
+build:
+  version: 1.0
+
+
+card:
+  message: "Welcome to Card Microservice"
+  contactDetails:
+    name: "Abhinav Devkar"
+    package: "35 LPA"
+  techStack:
+    - "Java"
+    - "Spring Boot"
+    - "Microservice"
+    - "Redis Cache"
+    - "Kafka"
+    - "AWS"

@@ -1,0 +1,16 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to Loan Microservice QA APIs"
+  contactDetails:
+    name: "Abhinav Devkar"
+    package: "38 LPA"
+  techStack:
+    - "Java"
+    - "Spring Boot"
+    - "Microservice"
+    - "Redis Cache"
+    - "Kafka"
+    - "AWS"
+    - "Docker"

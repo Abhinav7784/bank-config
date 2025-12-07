@@ -1,0 +1,17 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to Loan Microservice PROD APIs"
+  contactDetails:
+    name: "Abhinav Devkar"
+    package: "40 LPA"
+  techStack:
+    - "Java"
+    - "Spring Boot"
+    - "Microservice"
+    - "Redis Cache"
+    - "Kafka"
+    - "AWS"
+    - "Kubernates"
+    - "Docker"

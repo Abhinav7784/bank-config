@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Morgan Stanly"
+    email: "morganstanly@hotmail.com"
+  onCallSupport:
+    - 567895678990
+    - 987659876500
