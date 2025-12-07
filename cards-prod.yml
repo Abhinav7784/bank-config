@@ -3,7 +3,7 @@ build:
 
 
 card:
-  message: "Welcome to Card Microservice Prod  - Github  ---- Refresh  --- Spring Bus Single Microservice refresh all"
+  message: "Welcome to Card Microservice Prod  - Github  ---- Refresh  --- webhook api call"
   contactDetails:
     name: "Abhinav Devkar"
     package: "60 LPA"
