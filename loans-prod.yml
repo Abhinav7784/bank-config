@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Welcome to Loan Microservice PROD APIs  - Github"
+  message: "Welcome to Loan Microservice PROD APIs  - Github ----> Refresh"
   contactDetails:
     name: "Abhinav Devkar"
     package: "40 LPA"
