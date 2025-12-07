@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs  - Github Encrypt ---- Refresh  --- webhook api call"
+  message: "Welcome to EazyBank accounts related Prod APIs  - Github Encrypt ---- Refresh  --- webhook account call"
   contactDetails:
     name: "Nick John"
     email: "{cipher}9b994c2400754571e1548333f02c491d07f094bf7b2c7d19d283810065d249d93d337159f667fd921ed2c817d2f36e5b"
